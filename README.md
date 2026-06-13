@@ -20,7 +20,7 @@
 
 ### Option 1: Use Online Version
 
-Visit [RootShare P2P](https://your-username.github.io/Root-Share) (replace with your GitHub Pages URL)
+Visit [RootShare P2P](https://bijoyknath999.github.io/Root-Share) (replace with your GitHub Pages URL)
 
 ### Option 2: Self-Host
 
